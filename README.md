@@ -6,7 +6,7 @@ Architacture code examples from the game that my colleague and I are developing
 indirectly influenceing a population of simulated heroes.
 *The game implements:* procedural map generation, AI based NPC's, base building, extensive RPG stats for the heroes, enchantment system and deplomecy systems.
 
-# Files:
+# Files
 
 ### Enums
 List of enums used across the classes.
